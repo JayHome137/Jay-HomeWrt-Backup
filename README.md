@@ -1,4 +1,4 @@
- 欢迎来到 Jay 的 OpenWrt 源码仓库
+欢迎来到 Jay 的 OpenWrt 源码仓库
 
 如何编译自己需要的 OpenWrt 固件 [How to build your OpenWrt firmware]
 
